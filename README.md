@@ -23,15 +23,21 @@ router play new AlgorithmA
 
 At this point I have the following:
 
+```
 Router (plays) AlgorithmA
+```
 
 Next, if I adapt to algorithmB, I expected to have
 
+```
 Router (plays) AlgorithmB
+```
 
 But it seems that I get:
 
+```
 Router (plays) AlgorithmA (plays) AlgorithmB
+```
 
 Is it possible (other than using a singleton) that I want to exchange the role, instead of have a role plays role behavior?
 
