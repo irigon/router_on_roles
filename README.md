@@ -12,6 +12,10 @@ When two devices meet, for every stored message, a router activates a compartmen
 Next, it plays the role "route" and decides wether the message should be forwarded.
 Then it gets the next stored message and starts over.
 
+## Diagram
+
+![Diagram](./pictures/ClassDiagramInTheOne.svg)
+
 ## Problem
 
 When I activate a compartment, I pass the object router.
