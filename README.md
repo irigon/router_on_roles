@@ -20,19 +20,19 @@ Then it gets the next stored message and starts over.
 When I activate a compartment, I pass the object router.
 The adapt function is scala calls 
 
-`Router play new AlgorithmA
+`Router play new AlgorithmA`
 
 At this point I have the following:
 
-`Router (plays) AlgorithmA
+`Router (plays) AlgorithmA`
 
 Next, if I adapt to algorithmB, I expected to have
 
-`Router (plays) AlgorithmB
+`Router (plays) AlgorithmB`
 
 But it seems that I get:
 
-`Router (plays) AlgorithmA (plays) AlgorithmB
+`Router (plays) AlgorithmA (plays) AlgorithmB`
 
 Is it possible (other than using a singleton) to exchange a role instead of having a "role-plays-role" behavior?
 
