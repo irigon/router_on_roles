@@ -1,0 +1,16 @@
+[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m------------------< [0;36mcom.mycompany.app:scroll-router[0;1m >-------------------[m
+[[1;34mINFO[m] [1mBuilding scroll-router 1[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mexec-maven-plugin:1.6.0:java[m [1m(default-cli)[m @ [36mscroll-router[0;1m ---[m
+1.5714112E9 seconds to process the last 1000 role changes
+0.35 seconds to process the last 1000 role changes
+0.233 seconds to process the last 1000 role changes
+0.239 seconds to process the last 1000 role changes
+0.33 seconds to process the last 1000 role changes
+0.372 seconds to process the last 1000 role changes
+0.439 seconds to process the last 1000 role changes
+0.521 seconds to process the last 1000 role changes
+0.603 seconds to process the last 1000 role changes
