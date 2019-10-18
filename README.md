@@ -63,7 +63,7 @@ Without cycles I am getting:
 1.244 seconds to process the last 1000 role changes
 ```
 
-Avoiding Cycles:
+Allowing Cycles:
 
 ```
 [INFO] --- exec-maven-plugin:1.6.0:java (default-cli) @ scroll-router ---
