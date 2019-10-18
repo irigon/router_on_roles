@@ -39,7 +39,7 @@ But it seems that I get:
 Router (plays) AlgorithmA (plays) AlgorithmB
 ```
 
-Is it possible (other than using a singleton) that I want to exchange the role, instead of have a role plays role behavior?
+Is it possible (other than using a singleton) to exchange a role instead of having a "role-plays-role" behavior?
 
 
 Without cycles I am getting:
